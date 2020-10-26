@@ -31,8 +31,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 
-<a name="XXXXX"></a>
-## XXXXXX
+<a name="DaVinci Resolve入門"></a>
 
 #### ビデオトランジション
  * [エフェクトライブラリ]-[ビデオトランジション]-[クロスティゾルブ]
@@ -84,6 +83,17 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 1. [デリバー]を起動
 1. [YouTube]等を設定
 1. [名称]と[保存先]を設定し[レンダーキューに追加]→[レンダーを開始]
+
+実行環境：Windows10, DaVinci Resolve 16      
+作成者：夢寐郎  
+作成日：2020年10月26日  
+
+
+
+<a name="XXXXX"></a>
+## XXXXXX
+
+#### XXXXX
 
 |AAAA|BBBB|CCCC|DDDD|EEEEE|
 |:--:|:--:|:--|:--|:--:|
