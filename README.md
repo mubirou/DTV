@@ -32,8 +32,8 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 
-<a name="initSetting"></a>
-## DaVinci初期設定
+<a name="XXXXX"></a>
+## XXXXXX
 
 ### 説明
 XXXXXXXXX
