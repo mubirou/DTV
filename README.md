@@ -4,7 +4,7 @@
 
 ### <b>INDEX</b>
 * [DaVinci作業フォルダ](#daVinciFolder): 作業フォルダの設定
-* [XXX](#XXXX): XXXX
+* [DaVinci Resolve入門](#DaVinciFirstStep): XXXX
 * [XXX](#XXXX): XXXX
 
 ***
@@ -31,7 +31,8 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 
-<a name="DaVinci Resolve入門"></a>
+<a name="DaVinciFirstStep"></a>
+## DaVinci Resolve入門
 
 #### ビデオトランジション
  * [エフェクトライブラリ]-[ビデオトランジション]-[クロスティゾルブ]
