@@ -11,7 +11,7 @@
 
 
 <a name="daVinciFolder"></a>
-## DaVinci作業フォルダ
+## ◆DaVinci作業フォルダ
 
 ### 説明
 DaVinci Resolveで編集する際に使う作業フォルダを設定します。
@@ -32,7 +32,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 <a name="DaVinciFirstStep"></a>
-## DaVinci Resolve入門
+## ◆DaVinci Resolve入門
 
 #### ビデオトランジション
  * [エフェクトライブラリ]-[ビデオトランジション]-[クロスティゾルブ]
