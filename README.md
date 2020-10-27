@@ -92,7 +92,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 <a name="XXXXX"></a>
-## XXXXXX
+## ◆XXXXXX
 
 #### XXXXX
 
