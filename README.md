@@ -4,8 +4,8 @@
 
 ### <b>INDEX</b>
 * [DaVinci作業フォルダ](#daVinciFolder): 作業フォルダの設定
-* [DaVinci Resolve入門](#DaVinciFirstStep): XXXX
-* [XXX](#XXXX): XXXX
+* [DaVinci Resolve入門](#daVinciFirstStep): XXXX
+* [DaVinci カット入門](#daVinciCut): XXXX
 
 ***
 
@@ -38,7 +38,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 
-<a name="DaVinciFirstStep"></a>
+<a name="daVinciFirstStep"></a>
 ## ◆DaVinci Resolve入門
 
 #### ビデオトランジション
@@ -98,7 +98,21 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 
-<a name="XXXXX"></a>
+<a name="daVinciCut"></a>
+## ◆DaVinci カット入門
+
+#### 映像素材を一気に確認
+* ビューア左上の3つのボタンの真ん中「ソーステープ」を選択
+* 上記の2つ左のボタン「メディアの並べ替えボタン」で順番の変更が可能
+* ビューア左下の「ファストプレビュー」で、短いクリップは低速に、長いクリップは高速に再生（1～8倍速）
+
+実行環境：Windows10, DaVinci Resolve 16      
+作成者：XXXX  
+作成日：2020年XX月XX日  
+
+
+
+<a name="XXXXXX"></a>
 ## ◆XXXXXX
 
 #### XXXXX
