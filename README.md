@@ -4,8 +4,9 @@
 
 ### <b>INDEX</b>
 * [DaVinci 作業フォルダ](#daVinciFolder): 作業フォルダの設定
-* [DaVinci Resolve入門](#daVinciFirstStep): XXXX
+* [DaVinci Resolve 入門](#daVinciFirstStep): XXXX
 * [DaVinci カット入門](#daVinciCut): XXXX
+* [DaVinci 実践メモ](#daVinciPracticeMemo): XXXX
 
 ***
 
@@ -115,6 +116,19 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 実行環境：Windows10, DaVinci Resolve 16      
 作成者：夢寐郎  
 作成日：2020年10月27日  
+
+
+
+<a name="daVinciPracticeMemo"></a>
+## ◆DaVinci 実践メモ
+
+#### 開始タイムコードの変更
+1. [メディアプール]-[Timeline〇]を選び右クリック→[タイムライン]-[開始タイムコードを設定]
+1. 新規開始タイムコード: 00:59:50:00 等に変更
+
+実行環境：Windows10, DaVinci Resolve 16      
+作成者：夢寐郎  
+作成日：2020年11月04日  
 
 
 
