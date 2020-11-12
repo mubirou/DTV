@@ -28,14 +28,14 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
     * クリップの保存先：上記のメディアストレージ直下の\Capture  
 
 ### 自動バックアップ
-1. [DaVinci Resolve]-[環境設定]-[ユーザー]で以下を設定
+1. [DaVinci Resolve]-[環境設定]-[ユーザー]-[プロジェクトの保存とロード]で以下を設定
     * ライブ保存：✔
     * プロジェクトのバックアップ：✔
 
-実行環境：Windows10, DaVinci Resolve 16      
+実行環境：Windows10, DaVinci Resolve 17 Public Beta  
 作成者：夢寐郎  
 作成日：2020年10月26日  
-更新日：2020年10月27日
+更新日：2020年11月13日
 
 
 
@@ -93,7 +93,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 1. [YouTube]等を設定
 1. [名称]と[保存先]を設定し[レンダーキューに追加]→[レンダーを開始]
 
-実行環境：Windows10, DaVinci Resolve 16      
+実行環境：Windows10, DaVinci Resolve 16  
 作成者：夢寐郎  
 作成日：2020年10月26日  
 更新日：2020年11月12日
