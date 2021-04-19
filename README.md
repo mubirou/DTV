@@ -13,7 +13,7 @@
 
 
 <a name="daVinciFolder"></a>
-# ◆DaVinci 作業フォルダ
+## ◆DaVinci 作業フォルダ
 
 ### 説明
 DaVinci Resolveで編集する際に使う作業フォルダを設定します。
@@ -41,7 +41,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 <a name="daVinciFirstStep"></a>
-# ◆DaVinci Resolve 入門
+## ◆DaVinci Resolve 入門
 
 #### ビデオトランジション
  * [エフェクトライブラリ]-[ビデオトランジション]-[クロスティゾルブ]
@@ -102,7 +102,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 <a name="daVinciCut"></a>
-# ◆DaVinci カットページ入門
+## ◆DaVinci カットページ入門
 
 #### 映像素材を一気に確認
 * ビューア左上の3つのボタンの真ん中「ソーステープ」を選択
@@ -122,7 +122,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 <a name="daVinciPracticeMemo"></a>
-# ◆DaVinci 実践メモ
+## ◆DaVinci 実践メモ
 
 #### 開始タイムコードの変更
 1. [メディアプール]-[Timeline〇]を選び右クリック→[タイムライン]-[開始タイムコードを設定]
@@ -163,8 +163,8 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 
 
 
-<a name="daVinciFirstStep"></a>
-# ◆Fusion 入門
+<a name="fusionFirstStep"></a>
+## ◆Fusion 入門
 
 #### XXXXX
 
