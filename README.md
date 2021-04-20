@@ -175,3 +175,5 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 |XXXX|XXXX|XXXX XXXX|XXXX|XXXX|
 |XXXX|XXXX|XXXX XXXX|XXXX|XXXX|
 |XXXX|XXXX|XXXX XXXX|XXXX|XXXX|
+
+* Media Out: [Effects]-[Tools]-[I/O]-[MediaOut]
