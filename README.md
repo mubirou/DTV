@@ -176,4 +176,19 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 |XXXX|XXXX|XXXX XXXX|XXXX|XXXX|
 |XXXX|XXXX|XXXX XXXX|XXXX|XXXX|
 
+* エディット→FUSION: 複数クリップ選択→右クリック→[新規Fusionクリップ]
+* Fusionクリップの解凍: Fusionクリップの選択→右クリック→[タイムラインで開く]
 * Media Out: [Effects]-[Tools]-[I/O]-[MediaOut]
+* クリップのサイズ: [Marge]-[Size]
+* クリップの横幅: [Resize]ボタン-[Width]
+* クリップの反転: [Marge]-[Flip]-[Horiz]
+* スプラインの曲線化: ポイントを選択→[F]キー
+
+
+
+
+1. [エディット]ページのタイムライン上で、対象のクリップを選択（背景となるクリップも含む）
+1. 右クリック→[新規Fusionクリップ]を選択
+1. [Fusion]ページに移行
+1. [Mediain〇]を選択→[1]を押してクリップの画像を確認
+1. [Mediain〇]を選択→[F2]でクリップの内容に合わせてRename
