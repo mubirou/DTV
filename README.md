@@ -183,6 +183,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 * クリップの横幅: [Resize]ボタン-[Width]
 * クリップの反転: [Marge]-[Flip]-[Horiz]
 * スプラインの曲線化: ポイントを選択→[F]キー
+* クリップの非表示: [ChannelBooleans]ボタン-[Operation]-[Clear]
 
 
 
