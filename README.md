@@ -184,8 +184,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 * クリップの反転: [Marge]-[Flip]-[Horiz]
 * スプラインの曲線化: ポイントを選択→[F]キー
 * クリップの非表示: [ChannelBooleans]ボタン-[Operation]-[Clear]
-
-
+* クリップを暗くする: [Brightness/Contrast]ボタン-[Gain]
 
 
 1. [エディット]ページのタイムライン上で、対象のクリップを選択（背景となるクリップも含む）
