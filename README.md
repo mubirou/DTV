@@ -190,6 +190,7 @@ DaVinci Resolveで編集する際に使う作業フォルダを設定します�
 * クリップの非表示: [ChannelBooleans]ボタン-[Operation]-[Clear]
 * クリップを暗くする: [Brightness/Contrast]ボタン-[Gain]
 * マスクの適用: 適用させたいクリップを選択→[Rectangle]等を適用
+* 写真の抽象化: [エフェクトライブラリ]-[OpenFX]-[ResolveFXスタイライズ]-[抽象化]
 
 
 1. [エディット]ページのタイムライン上で、対象のクリップを選択（背景となるクリップも含む）
